@@ -92,6 +92,3 @@ We are currently working on developing and refining the guide, as well as creati
 
 With the MikroTIK mobile app and WinBox on your Android device, managing your MikroTIK router remotely becomes a straightforward task. Ensure you follow security best practices to protect your network while enjoying the convenience of remote access.
 
----
-
-Feel free to reach out if you have any questions or need further assistance!
