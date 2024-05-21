@@ -4,6 +4,12 @@
 
 This guide will help you set up and manage your MikroTIK router remotely using an Android device. MikroTIK routers are highly versatile networking devices, and with the right tools, you can control and monitor your network from anywhere.
 
+## Status
+
+**Project Status: In Progress**
+
+We are currently working on developing and refining the guide, as well as creating supplemental tools and resources to enhance your experience.
+
 ## Prerequisites
 
 1. A MikroTIK router with remote access enabled.
