@@ -1,4 +1,4 @@
-# Remote MikroTIK on your Android
+# MikDroid - Remote MikroTIK on your Android
 
 ## Overview
 
